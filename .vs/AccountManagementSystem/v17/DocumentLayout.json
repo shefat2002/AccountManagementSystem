@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\accountmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\accountmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AccountManagementSystem\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "AccountManagementSystem\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T14:38:23.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountManagementSystem",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\AccountManagementSystem.csproj",
+              "RelativeDocumentMoniker": "AccountManagementSystem\\AccountManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\AccountManagementSystem.csproj",
+              "RelativeToolTip": "AccountManagementSystem\\AccountManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T14:29:58.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "AccountManagementSystem\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\Pages\\Index.cshtml",
+              "RelativeToolTip": "AccountManagementSystem\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T14:25:43.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
