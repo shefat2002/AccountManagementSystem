@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\dataaccess\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\dataaccess\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,6 +39,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DataAccess\\DBContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AccountManagementSystem\\DataAccess\\DBContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DataAccess\\DBContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AccountManagementSystem\\DataAccess\\DBContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:00:16.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "AccountManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\appsettings.json",
+              "RelativeToolTip": "AccountManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T02:13:39.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AccountManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\Program.cs",
+              "RelativeToolTip": "AccountManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:55:02.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "AccountManagementSystem\\Pages\\Privacy.cshtml",
@@ -34,25 +85,23 @@
               "RelativeToolTip": "AccountManagementSystem\\Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-03T14:38:23.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T14:38:23.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountManagementSystem",
+              "DocumentIndex": 5,
+              "Title": "AccountManagementSystem.csproj",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\AccountManagementSystem.csproj",
               "RelativeDocumentMoniker": "AccountManagementSystem\\AccountManagementSystem.csproj",
               "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\AccountManagementSystem.csproj",
               "RelativeToolTip": "AccountManagementSystem\\AccountManagementSystem.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-03T14:29:58.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T14:29:58.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "AccountManagementSystem\\Pages\\Index.cshtml",
@@ -60,8 +109,7 @@
               "RelativeToolTip": "AccountManagementSystem\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-03T14:25:43.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T14:25:43.738Z"
             }
           ]
         }
