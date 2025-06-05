@@ -151,3 +151,7 @@ C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\P
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\AccountManagementSystem\AccountManagementSystem\obj\Debug\net8.0\AccountManagementSystem.csproj.AssemblyReference.cache
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\AccountManagementSystem\AccountManagementSystem\obj\Debug\net8.0\AccountManagementSystem.sourcelink.json
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\AccountManagementSystem\AccountManagementSystem\obj\Debug\net8.0\AccountM.CF75868C.Up2Date
+C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\AccountManagementSystem\AccountManagementSystem\bin\Debug\net8.0\Dapper.dll
+C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\AccountManagementSystem\AccountManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\AccountManagementSystem\AccountManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\AccountManagementSystem\AccountManagementSystem\obj\Debug\net8.0\AccountManagementSystem.MvcApplicationPartsAssemblyInfo.cs
