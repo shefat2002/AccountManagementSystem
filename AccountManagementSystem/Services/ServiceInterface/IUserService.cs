@@ -1,11 +1,11 @@
 ﻿using AccountManagementSystem.DomainModels.ViewModels;
 
-namespace AccountManagementSystem.DataAccess.Repositories.RepositoryInterface
+namespace AccountManagementSystem.Services.ServiceInterface
 {
-    public interface IUserRepository
+    public interface IUserService
     {
+        Task<List<UserViewModel>> GetAllUsersAsync();
         Task<List<UserWithRolesDto>> GetAllUsersWithRolesAsync();
-        Task<List<UserWithRolesDto>> GetUserByIdWithRolesAsync(string userId);
         Task<List<UserModulePermissionDto>> GetUserPermissionsAsync(string userId);
     }
 }

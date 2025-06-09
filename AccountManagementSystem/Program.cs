@@ -1,6 +1,10 @@
 using AccountManagementSystem.DataAccess.DBContext;
+using AccountManagementSystem.DataAccess.Repositories.RepositoryInterface;
+using AccountManagementSystem.DataAccess.Repositories;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using AccountManagementSystem.Services.ServiceInterface;
+using AccountManagementSystem.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +20,12 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>()
                     .AddEntityFrameworkStores<ApplicationDbContext>();
 
 builder.Services.AddRazorPages();
+
+
+//Registering repositories and services
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserService, UserService>();
+
 
 var app = builder.Build();
 

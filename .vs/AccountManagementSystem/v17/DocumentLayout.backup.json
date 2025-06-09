@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\dataaccess\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\dataaccess\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\domainmodels\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\domainmodels\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\dataaccess\\repositories\\repositoryinterface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\dataaccess\\repositories\\repositoryinterface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\domainmodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\domainmodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\domainmodels\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\domainmodels\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\domainmodels\\viewmodels\\userwithrolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\domainmodels\\viewmodels\\userwithrolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\domainmodels\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\domainmodels\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\domainmodels\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\domainmodels\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\dataaccess\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|solutionrelative:accountmanagementsystem\\dataaccess\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{047A1A5E-932A-4EAA-825E-3E7DC5C5C522}|AccountManagementSystem\\AccountManagementSystem.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\accountmanagementsystem\\accountmanagementsystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,37 +50,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationRole.cs",
-              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DomainModels\\ApplicationRole.cs",
-              "RelativeDocumentMoniker": "AccountManagementSystem\\DomainModels\\ApplicationRole.cs",
-              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DomainModels\\ApplicationRole.cs",
-              "RelativeToolTip": "AccountManagementSystem\\DomainModels\\ApplicationRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "AccountManagementSystem\\DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "AccountManagementSystem\\DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T05:56:40.536Z",
+              "WhenOpened": "2025-06-08T17:48:43.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UserWithRolesDto.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DomainModels\\ViewModels\\UserWithRolesDto.cs",
+              "RelativeDocumentMoniker": "AccountManagementSystem\\DomainModels\\ViewModels\\UserWithRolesDto.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DomainModels\\ViewModels\\UserWithRolesDto.cs",
+              "RelativeToolTip": "AccountManagementSystem\\DomainModels\\ViewModels\\UserWithRolesDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T17:44:26.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DataAccess\\Repositories\\RepositoryInterface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "AccountManagementSystem\\DataAccess\\Repositories\\RepositoryInterface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DataAccess\\Repositories\\RepositoryInterface\\IUserRepository.cs",
+              "RelativeToolTip": "AccountManagementSystem\\DataAccess\\Repositories\\RepositoryInterface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T17:28:14.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DomainModels\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "AccountManagementSystem\\DomainModels\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DomainModels\\ApplicationUser.cs",
-              "RelativeToolTip": "AccountManagementSystem\\DomainModels\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DomainModels\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AccountManagementSystem\\DomainModels\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DomainModels\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "AccountManagementSystem\\DomainModels\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T05:54:39.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "AccountManagementSystem\\Pages\\Index.cshtml",
@@ -84,12 +114,11 @@
               "RelativeToolTip": "AccountManagementSystem\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-06T17:50:23.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T17:50:23.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "RegisterUserViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DomainModels\\RegisterUserViewModel.cs",
               "RelativeDocumentMoniker": "AccountManagementSystem\\DomainModels\\RegisterUserViewModel.cs",
@@ -102,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20250605175513_test1.cs",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\Migrations\\20250605175513_test1.cs",
               "RelativeDocumentMoniker": "AccountManagementSystem\\Migrations\\20250605175513_test1.cs",
@@ -114,20 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DomainModels\\Users.cs",
-              "RelativeDocumentMoniker": "AccountManagementSystem\\DomainModels\\Users.cs",
-              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DomainModels\\Users.cs",
-              "RelativeToolTip": "AccountManagementSystem\\DomainModels\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T17:49:45.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\DataAccess\\DBContext\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "AccountManagementSystem\\DataAccess\\DBContext\\ApplicationDbContext.cs",
@@ -140,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\appsettings.json",
               "RelativeDocumentMoniker": "AccountManagementSystem\\appsettings.json",
@@ -152,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\AccountManagementSystem\\AccountManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "AccountManagementSystem\\Program.cs",
